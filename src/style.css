@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.rendBlock {
+
+    background-color: #ffc304;
+}
+
+h1{
+    margin-left: 10px;
+    color: #afffff;
+}
+
+.InputSpace li {
+    color: white;
+    margin: 5px 3px;
+    background-color: cornflowerblue;
+}
